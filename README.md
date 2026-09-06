@@ -175,11 +175,17 @@ C++ / Python を中心に
 
 <div align="center">
 
+<table border="2" cellpadding="6" cellspacing="0">
+<tr>
+<td>
 <a href="https://www.youtube.com/@vrc_kitunechan">
-<img src="./profile/youtube.svg" width="112" height="112" alt="YouTube">
+<img src="https://yt3.googleusercontent.com/nPr10hnBWo8h4rb2SD2eGGHcFFbU14awzCDmIDD9RoEGRLbInJDcxgobvYqt0T9nJ7hZ4d6A4g0=s160-c-k-c0x00ffffff-no-rj" width="96" height="96" alt="YouTube Channel Icon">
 </a>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
 <img src="https://img.shields.io/badge/@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
