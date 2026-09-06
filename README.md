@@ -32,18 +32,18 @@
 ゲーム改造やリバースエンジニアリング、低レベルプログラミングなどを中心に色々やっています。
 
 ```text
-名前        喫音 / Kitune
+名前         喫音 / Kitune
 
-好きなもの  C++ / ゲーム / Minecraft / 解析
+好きなもの   C++ / ゲーム / Minecraft / 解析
 
-やってる事  ゲーム改造
+やってる事   ゲーム改造
             リバースエンジニアリング
             クライアント開発
             ツール制作
 
-環境        Windows / Linux
+環境        Windows11
 
-現在        Minecraft Wii U 周辺を色々開発中
+現在        特に何も作らずゲーム三昧
 ```
 
 ---
@@ -85,7 +85,7 @@ PowerPC周辺の研究
 
 Minecraft Wii U / PS3 / PSP など
 ゲームの改造や
-クライアント開発
+モッド開発
 
 </td>
 
@@ -209,9 +209,5 @@ C++ / Python を中心に
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20">
-
-### 🦊 Thanks for visiting!
-
-`Made with curiosity and too much time.`
 
 </div>
