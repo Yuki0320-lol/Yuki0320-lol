@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Yuki0320-lol&style=for-the-badge&color=9b59b6&label=PROFILE+VIEWS">
 
-<br><br>
+<br>
 
 # 🦊 喫音
 
@@ -26,6 +26,10 @@
 ---
 
 ## 👋 喫音について
+
+こんにちは、**喫音**です。
+
+ゲーム改造やリバースエンジニアリング、低レベルプログラミングなどを中心に色々やっています。
 
 ```text
 名前        喫音 / Kitune
@@ -103,15 +107,17 @@ C++ / Python を中心に
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yuki0320-lol&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+<a href="https://github.com/Yuki0320-lol">
+<img src="https://github-readme-stats.vercel.app/api?username=Yuki0320-lol&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180">
+</a>
+
+<a href="https://github.com/Yuki0320-lol">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki0320-lol&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki0320-lol&layout=compact&theme=radical&hide_border=true&langs_count=10">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuki0320-lol&theme=radical">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuki0320-lol&theme=radical" width="95%">
 
 </div>
 
@@ -131,7 +137,7 @@ C++ / Python を中心に
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### ⛏️ Minecraft Wii U
 
@@ -142,7 +148,8 @@ C++ / Python を中心に
 * PowerPC Analysis
 
 </td>
-<td>
+
+<td width="50%">
 
 ### 🔍 Reverse Engineering
 
@@ -164,14 +171,14 @@ C++ / Python を中心に
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
 
-<img src="https://img.shields.io/badge/YouTube-きつね-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://yt3.googleusercontent.com/GPkjCORalaHyOYhAENDsMElCUonYULkMcl7wq91_NGF4PuRrq3DYIFB-mEm4uEIIVzX0cNY6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="90%">
 
 </a>
 
 <br><br>
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=YouTube&fontSize=40&fontColor=ffffff&color=gradient&customColorList=6,11,20">
+<img src="https://img.shields.io/badge/YouTube-きつね-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
