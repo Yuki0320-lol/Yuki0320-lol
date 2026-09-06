@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/YouTube-きつね-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+<a href="https://guns.lol/kitune">
+<img src="https://img.shields.io/badge/guns.lol%2Fkitune-9b59b6?style=for-the-badge&logo=link&logoColor=white">
+</a>
+
 </div>
 
 ---
@@ -189,26 +193,6 @@ C++ / Python を中心に
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
 <img src="https://img.shields.io/badge/@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 🌐 Links
-
-<div align="center">
-
-<a href="https://github.com/Yuki0320-lol">
-<img src="https://img.shields.io/badge/GitHub-Yuki0320--lol-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@vrc_kitunechan">
-<img src="https://img.shields.io/badge/YouTube-きつね-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="https://guns.lol/kitune">
-<img src="https://img.shields.io/badge/guns.lol%2Fkitune-9b59b6?style=for-the-badge&logo=link&logoColor=white">
 </a>
 
 </div>
