@@ -167,21 +167,24 @@ C++ / Python を中心に
 
 ## 📺 YouTube
 
-<div align="center">
+<h2 align="center">📺 YouTube</h2>
 
-<a href="https://www.youtube.com/@vrc_kitunechan">
+<p align="center">
+  <a href="https://www.youtube.com/@vrc_kitunechan">
+    <img
+      src="https://yt3.googleusercontent.com/nPr10hnBWo8h4rb2SD2eGGHcFFbU14awzCDmIDD9RoEGRLbInJDcxgobvYqt0T9nJ7hZ4d6A4g0=s160-c-k-c0x00ffffff-no-rj"
+      width="80"
+      height="80"
+      alt="YouTube"
+    />
+  </a>
+</p>
 
-<img src="https://yt3.googleusercontent.com/GPkjCORalaHyOYhAENDsMElCUonYULkMcl7wq91_NGF4PuRrq3DYIFB-mEm4uEIIVzX0cNY6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="90%">
-
-</a>
-
-<br><br>
-
-<a href="https://www.youtube.com/@vrc_kitunechan">
-<img src="https://img.shields.io/badge/YouTube-きつね-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/@vrc_kitunechan">
+    <img src="https://img.shields.io/badge/YouTube-@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
