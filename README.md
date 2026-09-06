@@ -6,20 +6,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=Yuki0320-lol&style=for-the-badge&color=9b59b6&label=PROFILE+VIEWS">
 
-<br>
+<br><br>
 
 # 🦊 喫音
 
 ### `C++` ・ `Reverse Engineering` ・ `Game Modding`
 
-<p>
-  <a href="https://github.com/Yuki0320-lol">
-    <img src="https://img.shields.io/badge/GitHub-Yuki0320--lol-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.youtube.com/@vrc_kitunechan">
-    <img src="https://img.shields.io/badge/YouTube-きつね-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Yuki0320-lol">
+<img src="https://img.shields.io/badge/GitHub-Yuki0320--lol-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@vrc_kitunechan">
+<img src="https://img.shields.io/badge/YouTube-きつね-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 </div>
 
@@ -29,21 +30,22 @@
 
 こんにちは、**喫音**です。
 
-ゲーム改造やリバースエンジニアリング、低レベルプログラミングなどを中心に色々やっています。
+ゲーム改造、リバースエンジニアリング、低レベルプログラミングなどを中心に色々やっています。
 
 ```text
 名前         喫音 / Kitune
 
 好きなもの   C++ / ゲーム / Minecraft / 解析
 
-やってる事   ゲーム改造
-            リバースエンジニアリング
-            クライアント開発
-            ツール制作
+やってる事
+             ├─ ゲーム改造
+             ├─ リバースエンジニアリング
+             ├─ クライアント開発
+             └─ ツール制作
 
-環境        Windows11
+環境         Windows 11
 
-現在        特に何も作らずゲーム三昧
+現在         特に何も作らずゲーム三昧
 ```
 
 ---
@@ -69,6 +71,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### 🔬 Reverse Engineering
@@ -85,7 +88,7 @@ PowerPC周辺の研究
 
 Minecraft Wii U / PS3 / PSP など
 ゲームの改造や
-モッド開発
+Mod開発
 
 </td>
 
@@ -98,6 +101,7 @@ C++ / Python を中心に
 気ままに開発
 
 </td>
+
 </tr>
 </table>
 
@@ -108,11 +112,11 @@ C++ / Python を中心に
 <div align="center">
 
 <a href="https://github.com/Yuki0320-lol">
-<img src="https://github-readme-stats.vercel.app/api?username=Yuki0320-lol&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180">
+<img src="./profile/stats.svg" height="180">
 </a>
 
 <a href="https://github.com/Yuki0320-lol">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki0320-lol&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180">
+<img src="./profile/top-langs.svg" height="180">
 </a>
 
 <br><br>
@@ -137,6 +141,7 @@ C++ / Python を中心に
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### ⛏️ Minecraft Wii U
@@ -160,6 +165,7 @@ C++ / Python を中心に
 * Memory / Functions
 
 </td>
+
 </tr>
 </table>
 
@@ -167,24 +173,27 @@ C++ / Python を中心に
 
 ## 📺 YouTube
 
-<h2 align="center">📺 YouTube</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.youtube.com/@vrc_kitunechan">
-    <img
-      src="https://yt3.googleusercontent.com/nPr10hnBWo8h4rb2SD2eGGHcFFbU14awzCDmIDD9RoEGRLbInJDcxgobvYqt0T9nJ7hZ4d6A4g0=s160-c-k-c0x00ffffff-no-rj"
-      width="80"
-      height="80"
-      alt="YouTube"
-    />
-  </a>
-</p>
+<a href="https://www.youtube.com/@vrc_kitunechan">
 
-<p align="center">
-  <a href="https://www.youtube.com/@vrc_kitunechan">
-    <img src="https://img.shields.io/badge/YouTube-@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<img
+src="https://yt3.googleusercontent.com/nPr10hnBWo8h4rb2SD2eGGHcFFbU14awzCDmIDD9RoEGRLbInJDcxgobvYqt0T9nJ7hZ4d6A4g0=s160-c-k-c0x00ffffff-no-rj"
+width="90"
+height="90"
+alt="YouTube"
+
+>
+
+</a>
+
+<br>
+
+<a href="https://www.youtube.com/@vrc_kitunechan">
+<img src="https://img.shields.io/badge/@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
 
 ---
 
@@ -197,7 +206,7 @@ C++ / Python を中心に
 </a>
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
-<img src="https://img.shields.io/badge/YouTube-きつね-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-きつね-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
