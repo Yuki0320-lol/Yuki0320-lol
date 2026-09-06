@@ -207,6 +207,10 @@ C++ / Python を中心に
 <img src="https://img.shields.io/badge/YouTube-きつね-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+<a href="https://guns.lol/kitune">
+<img src="https://img.shields.io/badge/guns.lol%2Fkitune-9b59b6?style=for-the-badge&logo=link&logoColor=white">
+</a>
+
 </div>
 
 ---
