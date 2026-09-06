@@ -112,16 +112,16 @@ C++ / Python を中心に
 <div align="center">
 
 <a href="https://github.com/Yuki0320-lol">
-<img src="./profile/stats.svg" height="180">
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats">
 </a>
 
 <a href="https://github.com/Yuki0320-lol">
-<img src="./profile/top-langs.svg" height="180">
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages">
 </a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuki0320-lol&theme=radical" width="95%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuki0320-lol&theme=radical" width="95%" alt="Profile Details">
 
 </div>
 
@@ -131,7 +131,7 @@ C++ / Python を中心に
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki0320-lol&theme=radical&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuki0320-lol&theme=radical&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -176,18 +176,10 @@ C++ / Python を中心に
 <div align="center">
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
-
-<img
-src="https://yt3.googleusercontent.com/nPr10hnBWo8h4rb2SD2eGGHcFFbU14awzCDmIDD9RoEGRLbInJDcxgobvYqt0T9nJ7hZ4d6A4g0=s160-c-k-c0x00ffffff-no-rj"
-width="90"
-height="90"
-alt="YouTube"
-
->
-
+<img src="./profile/youtube.svg" width="112" height="112" alt="YouTube">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://www.youtube.com/@vrc_kitunechan">
 <img src="https://img.shields.io/badge/@vrc__kitunechan-9b59b6?style=for-the-badge&logo=youtube&logoColor=white">
