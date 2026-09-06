@@ -35,7 +35,7 @@
 ```text
 名前         喫音 / Kitune
 
-好きなもの   C++ / ゲーム / Minecraft / 解析
+好きなもの   COD / Minecraft / Apex / Roblox / 雑談 / 動画編集
 
 やってる事
              ├─ ゲーム改造
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,linux&perline=9">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode&perline=9">
 
 <br><br>
 
